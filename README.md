@@ -15,7 +15,7 @@
 - Open-source projects that contribute to the community
 
 ### 📫 **How to reach me:**
-- [LinkedIn](www.linkedin.com/in/daniel-couto-tec)
+- [LinkedIn](daniel-couto-tec)
 - [Email](danielcouocaetano@gmail.com)
 - [GitHub](https://github.com/DanielCCouto)
 
